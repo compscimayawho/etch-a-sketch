@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#canvas {
+    display: grid;
+    margin: 2rem 0;
+    height: 960px;
+    width: 960px;
+    border: 1px solid black;
+}
